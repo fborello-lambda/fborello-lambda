@@ -1,4 +1,4 @@
-## Hi there 👋
+![xkcd.com/2209](https://imgs.xkcd.com/comics/fresh_pears_2x.png)
 
 <!--
 **fborello-lambda/fborello-lambda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
